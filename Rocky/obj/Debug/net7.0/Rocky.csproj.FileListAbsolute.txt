@@ -273,3 +273,12 @@ C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\runtimes\unix\l
 C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\obj\Debug\net7.0\Rocky.MvcApplicationPartsAssemblyInfo.cs
