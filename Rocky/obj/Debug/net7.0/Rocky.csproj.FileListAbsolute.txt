@@ -282,3 +282,4 @@ C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Microsoft.Exten
 C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\obj\Debug\net7.0\Rocky.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Mailjet.Client.dll

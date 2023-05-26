@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hCEGo+w6OuNyt0tQmFC2rpAClSPiQkLB6t1yZj1jj269ePYNsmadSNJmfUipccDr+7SrCNapWyd9pAA4moFvgQ==",
+  "dgSpecHash": "yGyeiftLqrNtr+aB6wbqesliiQQv1ScySpHkZHkN4EVIGjuRNNTkRpiVziNWlsH1sSCdoL8zHYM/BX4O0RVLlw==",
   "success": true,
   "projectFilePath": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky\\Rocky.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shaho\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\shaho\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\shaho\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\shaho\\.nuget\\packages\\mailjet.api\\3.0.0\\mailjet.api.3.0.0.nupkg.sha512",
     "C:\\Users\\shaho\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.5\\microsoft.aspnetcore.cryptography.internal.7.0.5.nupkg.sha512",
     "C:\\Users\\shaho\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.5\\microsoft.aspnetcore.cryptography.keyderivation.7.0.5.nupkg.sha512",
     "C:\\Users\\shaho\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.5\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.5.nupkg.sha512",
