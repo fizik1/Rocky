@@ -281,5 +281,13 @@ C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Microsoft.Exten
 C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\obj\Debug\net7.0\Rocky.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Mailjet.Client.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Rocky_Utility.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Rocky_Utility.pdb
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Rocky_Models.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Rocky_Models.pdb
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\obj\Debug\net7.0\Rocky.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Rocky_DataAccess.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky\bin\Debug\net7.0\Rocky_DataAccess.pdb

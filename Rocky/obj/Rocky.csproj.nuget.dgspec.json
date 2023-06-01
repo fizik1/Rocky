@@ -27,7 +27,17 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_DataAccess\\Rocky_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_DataAccess\\Rocky_DataAccess.csproj"
+              },
+              "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_Models\\Rocky_Models.csproj": {
+                "projectPath": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_Models\\Rocky_Models.csproj"
+              },
+              "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_Utility\\Rocky_Utility.csproj": {
+                "projectPath": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_Utility\\Rocky_Utility.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -42,7 +52,7 @@
           "dependencies": {
             "Mailjet.Api": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[1.2.2, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -82,6 +92,212 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_DataAccess\\Rocky_DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_DataAccess\\Rocky_DataAccess.csproj",
+        "projectName": "Rocky_DataAccess",
+        "projectPath": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_DataAccess\\Rocky_DataAccess.csproj",
+        "packagesPath": "C:\\Users\\shaho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shaho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_Models\\Rocky_Models.csproj": {
+                "projectPath": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_Models\\Rocky_Models.csproj"
+              },
+              "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_Utility\\Rocky_Utility.csproj": {
+                "projectPath": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_Utility\\Rocky_Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_Models\\Rocky_Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_Models\\Rocky_Models.csproj",
+        "projectName": "Rocky_Models",
+        "projectPath": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_Models\\Rocky_Models.csproj",
+        "packagesPath": "C:\\Users\\shaho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shaho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_Utility\\Rocky_Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_Utility\\Rocky_Utility.csproj",
+        "projectName": "Rocky_Utility",
+        "projectPath": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_Utility\\Rocky_Utility.csproj",
+        "packagesPath": "C:\\Users\\shaho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky_Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shaho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Mailjet.Api": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.Extensions.Primitives": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

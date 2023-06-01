@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UNPPr/Nu8Uv/NAWQ7238aFdGEbrV9qU53w51Sf01QnY=",
+  "Hash": "U8vKjxmVnSgf1NffWQd0Jq6EB8LN8Il13CboNeQDY+Y=",
   "Source": "Rocky",
   "BasePath": "_content/Rocky",
   "Mode": "Default",
@@ -36958,6 +36958,40 @@
       "OriginalItemSpec": "wwwroot\\fontawesome\\webfonts\\fa-v4compatibility.woff2"
     },
     {
+      "Identity": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky\\wwwroot\\images\\dust_scratches.png",
+      "SourceId": "Rocky",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky\\wwwroot\\",
+      "BasePath": "_content/Rocky",
+      "RelativePath": "images/dust_scratches.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dust_scratches.png"
+    },
+    {
+      "Identity": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky\\wwwroot\\images\\patio.jpg",
+      "SourceId": "Rocky",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky\\wwwroot\\",
+      "BasePath": "_content/Rocky",
+      "RelativePath": "images/patio.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\patio.jpg"
+    },
+    {
       "Identity": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky\\wwwroot\\images\\products\\5093c658-7bd1-4f4a-94e6-3647419c5ff7.png",
       "SourceId": "Rocky",
       "SourceType": "Discovered",
@@ -37007,6 +37041,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\f3bbc080-6f11-4509-a22d-7a64efdf9510.png"
+    },
+    {
+      "Identity": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky\\wwwroot\\images\\tile.png",
+      "SourceId": "Rocky",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky\\wwwroot\\",
+      "BasePath": "_content/Rocky",
+      "RelativePath": "images/tile.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tile.png"
+    },
+    {
+      "Identity": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky\\wwwroot\\js\\inquiry.js",
+      "SourceId": "Rocky",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky\\wwwroot\\",
+      "BasePath": "_content/Rocky",
+      "RelativePath": "js/inquiry.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\inquiry.js"
     },
     {
       "Identity": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky\\wwwroot\\js\\site.js",
@@ -37993,6 +38061,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky\\wwwroot\\templates\\Inquiry.html",
+      "SourceId": "Rocky",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shaho\\source\\repos\\NewRepo\\Rocky\\Rocky\\wwwroot\\",
+      "BasePath": "_content/Rocky",
+      "RelativePath": "templates/Inquiry.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\templates\\Inquiry.html"
     }
   ]
 }

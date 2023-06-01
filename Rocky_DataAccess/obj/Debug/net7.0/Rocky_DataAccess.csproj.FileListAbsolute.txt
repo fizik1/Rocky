@@ -1,0 +1,17 @@
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\obj\Debug\net7.0\Rocky_DataAccess.csproj.AssemblyReference.cache
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\obj\Debug\net7.0\Rocky_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\obj\Debug\net7.0\Rocky_DataAccess.AssemblyInfoInputs.cache
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\obj\Debug\net7.0\Rocky_DataAccess.AssemblyInfo.cs
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\obj\Debug\net7.0\Rocky_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\bin\Debug\net7.0\Rocky_DataAccess.deps.json
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\bin\Debug\net7.0\Rocky_DataAccess.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\bin\Debug\net7.0\Rocky_DataAccess.pdb
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\bin\Debug\net7.0\Rocky_Models.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\bin\Debug\net7.0\Rocky_Models.pdb
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\obj\Debug\net7.0\Rocky_DataAccess.csproj.CopyComplete
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\obj\Debug\net7.0\Rocky_DataAccess.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\obj\Debug\net7.0\refint\Rocky_DataAccess.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\obj\Debug\net7.0\Rocky_DataAccess.pdb
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\obj\Debug\net7.0\ref\Rocky_DataAccess.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\bin\Debug\net7.0\Rocky_Utility.dll
+C:\Users\shaho\source\repos\NewRepo\Rocky\Rocky_DataAccess\bin\Debug\net7.0\Rocky_Utility.pdb
